@@ -11,3 +11,4 @@ Al igual que el repositorio de sus ejercicios, destinaremos este espacio para lo
 ## Entendiendo la estructura del repositorio
 
 A diferencia del repositorio de sus ejercicios, este quedara conformado por las carpetas de los modulos, y en cada uno de ellas podran encontrar los ejercicios! 
+Cada carpeta de "Modulo" hara referencia a los distintos modulos de nuestro Bootcamp, y denrto de el encontraran las carpetas de "Ejercicios clase" y de "Pair programming" respectivamente.
